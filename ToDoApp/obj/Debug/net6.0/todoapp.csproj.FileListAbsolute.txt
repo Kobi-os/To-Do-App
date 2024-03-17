@@ -1,0 +1,14 @@
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\bin\Debug\net6.0\todoapp.exe
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\bin\Debug\net6.0\todoapp.deps.json
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\bin\Debug\net6.0\todoapp.runtimeconfig.json
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\bin\Debug\net6.0\todoapp.dll
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\bin\Debug\net6.0\todoapp.pdb
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\obj\Debug\net6.0\todoapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\obj\Debug\net6.0\todoapp.AssemblyInfoInputs.cache
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\obj\Debug\net6.0\todoapp.AssemblyInfo.cs
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\obj\Debug\net6.0\todoapp.csproj.CoreCompileInputs.cache
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\obj\Debug\net6.0\todoapp.dll
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\obj\Debug\net6.0\refint\todoapp.dll
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\obj\Debug\net6.0\todoapp.pdb
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\obj\Debug\net6.0\todoapp.genruntimeconfig.cache
+D:\STUDIA\Podstawy Programowania\todoapp\todoapp\obj\Debug\net6.0\ref\todoapp.dll
